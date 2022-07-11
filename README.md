@@ -1,4 +1,4 @@
-# Notes App
+# Dockerized Symfony Apache App
 
 ### List of Docker Commands
 
